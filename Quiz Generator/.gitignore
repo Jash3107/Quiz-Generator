@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Python
+venv/
+tein/
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
